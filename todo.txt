@@ -1,0 +1,3 @@
+- Déposer les fichier dans un dossier
+- le programme commence par le fichier index.php
+- Il faut avoir une connection internet car on charge le style (bootstrap) de l'extérieur.

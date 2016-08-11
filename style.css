@@ -1,0 +1,35 @@
+body
+{
+	font-family:Verdana;
+}
+
+table.tab_matrice
+{
+	border-collapse:collapse;
+}
+
+table.tab_matrice tr td
+{
+	border:1px solid #cccccc;
+	text-align:center;
+	width:30px;
+	height:30px;
+	background-color:#eeeeee;
+}
+
+table.tab_saisie_matrice
+{
+	border-collapse:collapse;
+}
+
+table.tab_saisie_matrice tr td
+{
+	border:1px solid #cccccc;
+	background-color:#eeeeee;
+	padding:8px;
+}
+
+table.tab_saisie_matrice tr td input[type='text']
+{
+	width:40px;
+}
